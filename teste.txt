@@ -1,1 +1,3 @@
 Start-Process -Wait msiexec -ArgumentList '/qn /i datadog-agent-7-latest.amd64.msi APIKEY="aaec8bd94fc09e343b544eab8c2c975e" SITE="us5.datadoghq.com"'
+
+https://s3.amazonaws.com/ddagent-windows-stable/datadog-agent-7-latest.amd64.msi
