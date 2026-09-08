@@ -1,0 +1,23 @@
+Olá, tudo bem?
+
+Estou com *R$ 450.000* líquidos e preciso montar uma carteira de renda fixa com horizonte exato de *18 meses* (vencimento entre janeiro e fevereiro de 2028).
+
+Meu foco é proteção contra a inflação, mas com necessidade de retiradas mensais para custeio de aluguel. Não tenho interesse em renda variável, FIIs ou fundos multimercado.
+
+Preciso da seguinte estrutura com essas alocações exatas. Veja o que consegue de boas taxas (em emissores sólidos) hoje:
+
+💧 *Caixa de Transição (Liquidez Diária) | 22% (R$ 99.000)*
+• Ativos aceitos: CDB (mínimo 100% do CDI com liquidez diária) ou Tesouro Selic.
+• Objetivo: Suportar resgates mensais maiores e programados.
+
+📈 *Crescimento Limpo | 40% (R$ 180.000)*
+• Ativos aceitos: LCI e LCA.
+• Objetivo: Otimização tributária (isenção de IR).
+• Prazo: Vencimento cravado em 18 meses.
+
+🛡️ *Proteção Inflacionária | 38% (R$ 171.000)*
+• Ativos aceitos: CDB IPCA+ ou papéis semelhantes.
+• Objetivo: Blindar o poder de compra do patrimônio principal.
+• Prazo: Vencimento cravado em 18 meses.
+
+Aguardo as opções disponíveis na plataforma dentro desses parâmetros para analisarmos.
